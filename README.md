@@ -27,15 +27,27 @@ Previous experience, and class powerpoint used for Git and Github entires.
 
 
 Definitions:
+
 Branch - parallel copy of main repository.
+
 Clone - A copied repository that stays on the local computer.
+
 Commit - An individual change to a file or set of files.
+
 Fetch - Action to add changes from the local repository to the main without committing.
+
 GIT - Program for tracking changes in text files.
+
 Github - A host program for GIT that can be installed on one's computer.
+
 Merge - Action to take changes from one branch to apply to another.
+
 Merge Conflict - An error that emerges when branches are merged and conflict.
+
 Push - Action to send changes to a remote repository.
+
 Pull - Action to fetch and merge changes.
+
 Remote - A repository version hosted on a server.
+
 Repository - The basic element of GitHub, analogous to a project folder.
